@@ -101,4 +101,7 @@ All code is reviewed and adapted manually.
 © 2026 Utkuhan Akar
 All rights reserved.
 
-This project may not be copied, modified, or distributed without permission.
+This project and its source code are the intellectual property of Utkuhan Akar.
+
+No permission is granted to copy, modify, distribute, or use any part of this code without explicit written consent. 
+
