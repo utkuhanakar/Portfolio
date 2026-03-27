@@ -50,9 +50,17 @@ No frameworks. No unnecessary dependencies.
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-Site images are located in the assets folder!
+<p align="center">
+  <img src="assets/screenshots/home.png" width="45%" />
+  <img src="assets/screenshots/project.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/about.png" width="45%" />
+  <img src="assets/screenshots/contact.png" width="45%" />
+</p>
 
 ---
 
