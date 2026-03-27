@@ -1,5 +1,10 @@
-# Portfolio
-
+# My Portfolio Website
+<h3 align="left">🌐 My website:</h3>
+<p align="left">
+  <a href="https://utkuhanakar.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 A personal portfolio website focused on clean UI, systems thinking, and real project development.
 
 ---
