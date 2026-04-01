@@ -90,6 +90,8 @@ AI tools were used during development:
 * ChatGPT
 * Claude
 * Gemini
+* Cursor
+* Antigravity
 
 Used for:
 
