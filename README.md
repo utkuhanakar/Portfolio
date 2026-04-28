@@ -72,9 +72,7 @@ No frameworks. No unnecessary dependencies.
 ## 📈 Development Process
 
 This project is part of a learning journey.
-
 Not perfect. Not final.
-
 Built by:
 
 * testing
